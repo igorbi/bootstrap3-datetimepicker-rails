@@ -809,8 +809,8 @@ THE SOFTWARE.
         },
 
         stopEvent = function (e) {
-            e.stopPropagation();
-            e.preventDefault();
+            // e.stopPropagation();
+            // e.preventDefault();
         },
 
         keydown = function (e) {
